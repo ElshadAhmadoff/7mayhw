@@ -1,0 +1,391 @@
+nav li{
+    font-size: 14px;
+    font-weight: 400;
+}
+nav{
+    background-color: #fff;
+}
+nav .one{
+    font-size: 10px;
+    font-weight: 600;
+}
+nav i{
+    font-weight: bolder!important;
+}
+header{
+    background-image: url(https://colorlibhub.com/wp-content/uploads/sites/59/2016/03/photo-1443527216320-7e744084f5a7-1.jpg);    
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 140px;
+}
+header p{
+    color: #fff;
+    margin-bottom: 45px;
+}
+header .a1{
+    padding: 19px 65px;
+    background: #745cf9;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+header .a1:hover{
+    color: #fff;
+    background-color: #5d4bc3;
+    transition: all .2s ease;
+}
+header .a2:hover{
+    color: black;
+    background-color: #fff;
+    transition: all .2s ease;
+}
+header .a2{
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid white;
+    padding: 17px 40px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+nav{
+    border-bottom: 1px solid rgb(215, 196, 196);
+}
+.seo{
+    padding: 120px 0px;
+}
+.seo h2{
+    font-weight: 400;
+    color: rgb(48, 29, 29);
+    margin-top: -70px;
+    margin-bottom: 35px;
+}
+.seo p{
+    color: rgb(173, 142, 142);
+    text-align: justify;
+    width: 400px;
+    margin-bottom: 40px;
+}
+.seo a{
+    padding: 19px 65px;
+    background: #745cf9;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.seo a:hover{
+    color: #fff;
+    background-color: #5d4bc3;
+    transition: all .2s ease;
+}
+.portofilo{
+    background-color: rgb(245, 245, 245);
+    padding: 110px 0px;
+}
+.portofilo h2{
+    font-weight: 350;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.portofilo p{
+    width: 400px;
+    line-height: 25px;
+    color: #8c979e;
+    margin-bottom: 55px;
+}
+.portofilo a{
+    padding: 19px 55px;
+    background: #745cf9;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.portofilo a:hover{
+    color: #fff;
+    background-color: #5d4bc3;
+    transition: all .2s ease;
+}
+.small{
+    margin-top: 20px;
+    background-image: url(../sea-photo\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 65vh;
+    padding: 140px 0px;
+}
+.small h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.small p{
+    color: #fff;
+    margin-bottom: 45px;
+    width: 950px;
+    margin-left: 170px;
+    line-height: 30px;
+}
+.small a{
+    padding: 19px 55px;
+    background: #745cf9;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.small a:hover{
+    color: #fff;
+    background-color: #5d4bc3;
+    transition: all .2s ease;
+}
+.limitless h2{
+    font-weight: 400;
+    color: rgb(87, 48, 48);
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.limitless p{
+    color: rgb(153, 119, 119);
+    font-weight: 400;
+    line-height: 10px;
+}
+.limitless a{
+    padding: 19px 55px;
+    background: #745cf9;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.limitless a:hover{
+    color: #fff;
+    background-color: #5d4bc3;
+    transition: all .2s ease;
+}
+.limitless img{
+    margin-top: 50px;
+}
+.our{
+    background-color: #0e1015;
+    padding: 100px 0PX;
+    width: 100%;
+    overflow-x: hidden;
+}
+.our h2{
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.our p{
+    color: rgb(216, 198, 198);
+    font-size: 15px;
+}
+.col-md-3{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding: 0px!important;
+}
+.az1{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/12/photo-1443890484047-5eaa67d1d630-1.jpg);
+    margin-top: 30px!important;
+}
+.az2{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1422568374078-27d3842ba676-1.jpg);
+    margin-top: 30px!important;
+}
+.az3{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1447834353189-91c48abf20e1-1-1.jpg);
+    margin-top: 30px!important;
+}
+.az4{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/12/photo-1447877085163-3cce903855cd-1.jpg);
+    margin-top: 30px!important
+}
+.az5{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1447958374760-1ce70cf11ee3-1-1.jpg);
+}
+.az6{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1430329429612-babb42f88673-1-1.jpg);
+}
+.az7{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1449057528837-7ca097b3520c-1-1.jpg);
+}
+.az8{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1449168013943-3a15804bb41c-1-1.jpg);
+}
+.az9{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1451186859696-371d9477be93-1-1.jpg);
+}
+.az10{
+    background-image: url(https://colorlibhub.com/shapely/wp-content/uploads/sites/59/2016/03/photo-1448518184296-a22facb4446f-1-1.jpg);
+}
+.c1{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(155, 119, 119);
+    opacity: 0;
+}
+.col-md-3:hover .c1{
+    opacity: 0.4;
+    transition: all .3s ease;
+} 
+.col-md-3:hover h2{
+    opacity: ;
+    transition: all .3s ease;
+} 
+.c1 h2{
+    color: white!important;
+    font-size: 25px!important;
+    font-weight: 500;
+    line-height: 250px;
+} 
+.what{
+    padding: 70px 0px;
+    background-image: url(https://colorlibhub.com/wp-content/uploads/sites/59/2016/12/photo-1451417379553-15d8e8f49cde.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+.what h2{
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 60px;
+}
+.what p{
+    line-height: 8px;
+    color: #fff;
+}
+.what img{
+    width: 110px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.what h3{
+    color: #fff;
+    font-size: 15px;
+}
+.what .w{
+    color: #fff;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    right: 20%;
+}
+.what .z{
+    color: #fff;
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+.main{
+    width: 100%;
+    padding: 90px 0px;
+    overflow: hidden;
+    height: 350px;
+}
+.main h2{
+    font-weight: 350;
+}
+.col-md-2{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding: 0px!important;
+    width: 12%!important;
+    margin: 40px;
+    text-align: center;
+}
+.col-md-2 img{
+    width: 70px;
+    margin: 60px;
+    opacity: 0.5;
+}
+.b img{
+    width: 50px!important;
+}
+.do{
+    width: 100%;
+    background-color: #f5f5f5;
+    overflow: hidden;
+    padding: 100px 140px;
+}
+.do h2{
+    font-weight: 400;
+}
+.do a{
+    padding: 19px 55px;
+    background: #745cf9;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.theme{
+    position: relative;
+    width: 100%;
+    background-color: #0e1015;
+    overflow: hidden;
+    padding: 70px 150px; 
+}
+.theme p{
+    color: #fff;
+}
+.theme .fa-brands{
+    color: #fff;
+    margin-left: 20px;
+}
+.theme .ax{
+    color: rgb(187, 159, 159);
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600;
+}
+.theme .fa-brands:hover{
+    color: blue;
+    font-size: 15px;
+    transition: all .3s ease;
+}
+.kl{
+    padding: 4px 10px;
+    border: 2px solid rgb(165, 161, 161);
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: rgb(138, 132, 132);
+}
+.kl:hover .bi{
+    color: white;
+}
+.kl:hover{
+    border: 2px solid white;
+}
+@media screen and (min-width: 768px) {
+  
+}
+    
+}
